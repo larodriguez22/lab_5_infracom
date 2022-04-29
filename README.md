@@ -1,0 +1,11 @@
+# lab4_redes
+- Primero se debe clonar el repositorio y abralo en Visual Studio Code
+- Despues de esto abra dos teminales diferentes
+- En una de las terminales ejecute el comando: python server1.py
+- En la otra consola ejecute el comando: python cliente.py
+- En la consola donde ejecuto el servidor debe indicar cual de los dos archivos va a enviar, 1 si desea enviar el archivo de 100MB o 2 si desea enviar el archivo 250MB
+- Posterior a esto en la misma consola ingrese un numero que indica la cantidad de conexiones que aceptara el servidor
+- En la consola donde ejecuto el cliente debe ejecutar cuantos clientes desea crear
+- Porterior a esto debemos indicar el numero de prueba para que se registre en los logs
+- Si desea revisar los logs puede buscarlo en los archivos: logs_cliente para los logs de los clientes, log_servidor: para los logs del servidor y ArchivosRecibidos para ver cual fue el archivo recivido.
+- En el siguiente link se presenta el funcionamiento proyecto: https://youtu.be/OUCGfJdeLP0

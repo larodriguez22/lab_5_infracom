@@ -1,0 +1,6 @@
+*.xml
+*.idea
+data/*
+ArchivosRecibidos/*
+logs_servidor/*
+logs_cliente/*
